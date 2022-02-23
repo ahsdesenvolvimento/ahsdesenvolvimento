@@ -1,7 +1,7 @@
 ### Olá, eu sou André Henrique Sousa 👋
 
 - 🔭 Hoje trabalho com monitoramento de redes
-- 🌱 Estou estudando Java
+- 💻 Estou estudando Java
 - 💬 Contate-me no e-mail: ahsdesenvolvimento@gmail.com
 <div align="center">
   <a href="https://github.com/ahsdesenvolvimento">
